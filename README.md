@@ -1,7 +1,3 @@
-Certainly! Here's the updated README for your GitHub repository that now includes the detailed information about Assignment 3:
-
----
-
 # Machine Learning Projects
 
 ## Overview
